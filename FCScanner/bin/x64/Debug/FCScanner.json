@@ -1,0 +1,17 @@
+{
+  "Author": "The Warrior of WHAT",
+  "Name": "FC Member Scanner",
+  "InternalName": "FCScanner",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "A scanner for Free Company members, providing name and location/time AFK.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/WarriorOfWhat/FCScanner",
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/WarriorOfWhat/FCScanner/main/images/lopoicon.png",
+  "Punchline": "Track popular hours and time away for effective event planning.",
+  "AcceptsFeedback": true
+}

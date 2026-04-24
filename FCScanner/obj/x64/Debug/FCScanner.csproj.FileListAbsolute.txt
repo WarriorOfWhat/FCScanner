@@ -1,0 +1,9 @@
+E:\FFXIV Mods\[5 Plugins]\FCMemberScanner\SamplePlugin\bin\x64\Debug\goat.png
+E:\FFXIV Mods\[5 Plugins]\FCMemberScanner\SamplePlugin\bin\x64\Debug\FCScanner.deps.json
+E:\FFXIV Mods\[5 Plugins]\FCMemberScanner\SamplePlugin\bin\x64\Debug\FCScanner.dll
+E:\FFXIV Mods\[5 Plugins]\FCMemberScanner\SamplePlugin\obj\x64\Debug\FCScanner.csproj.AssemblyReference.cache
+E:\FFXIV Mods\[5 Plugins]\FCMemberScanner\SamplePlugin\obj\x64\Debug\FCScanner.GeneratedMSBuildEditorConfig.editorconfig
+E:\FFXIV Mods\[5 Plugins]\FCMemberScanner\SamplePlugin\obj\x64\Debug\FCScanner.AssemblyInfoInputs.cache
+E:\FFXIV Mods\[5 Plugins]\FCMemberScanner\SamplePlugin\obj\x64\Debug\FCScanner.AssemblyInfo.cs
+E:\FFXIV Mods\[5 Plugins]\FCMemberScanner\SamplePlugin\obj\x64\Debug\FCScanner.csproj.CoreCompileInputs.cache
+E:\FFXIV Mods\[5 Plugins]\FCMemberScanner\SamplePlugin\obj\x64\Debug\FCScanner.dll

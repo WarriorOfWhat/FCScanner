@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WViLu1K1t0s=",
+  "success": true,
+  "projectFilePath": "E:\\FFXIV Mods\\[5 Plugins]\\FCMemberScanner\\SamplePlugin\\FCScanner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miken\\.nuget\\packages\\dalamudpackager\\14.0.2\\dalamudpackager.14.0.2.nupkg.sha512",
+    "C:\\Users\\miken\\.nuget\\packages\\dotnet.reproduciblebuilds\\1.2.39\\dotnet.reproduciblebuilds.1.2.39.nupkg.sha512"
+  ],
+  "logs": []
+}
