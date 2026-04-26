@@ -10,6 +10,6 @@
   "AssemblyVersion": "1.0.3.0",
   "IsHide": false,
   "IsTestingExclusive": false,
-  "DownloadLinkInstall": "https://github.com/WarriorOfWhat/FCScanner/releases/download/v1.0.2.0/FCScanner.zip",
-  "IconUrl": "https://raw.githubusercontent.com/WarriorOfWhat/FCScanner/main/images/lopoicon.png"
+  "DownloadLinkInstall": "https://github.com/WarriorOfWhat/FCScanner/releases/download/v1.0.3.0/FCScanner.zip",
+  "IconUrl": "https://raw.githubusercontent.com/WarriorOfWhat/FCScanner/refs/heads/main/images/lopoicon.png"
 }
