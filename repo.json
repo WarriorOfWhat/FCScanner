@@ -6,7 +6,7 @@
   "Author": "The Warrior of WHAT",
   "RepoUrl": "https://github.com/WarriorOfWhat/FCScanner",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 14,
+  "DalamudApiLevel": 15,
   "AssemblyVersion": "1.0.6.1",
   "IsHide": false,
   "IsTestingExclusive": false,
