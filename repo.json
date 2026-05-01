@@ -7,9 +7,9 @@
   "RepoUrl": "https://github.com/WarriorOfWhat/FCScanner",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 14,
-  "AssemblyVersion": "1.0.3.0",
+  "AssemblyVersion": "1.0.6.0",
   "IsHide": false,
   "IsTestingExclusive": false,
-  "DownloadLinkInstall": "https://github.com/WarriorOfWhat/FCScanner/releases/download/v1.0.3.0/FCScanner.zip",
+  "DownloadLinkInstall": "https://github.com/WarriorOfWhat/FCScanner/releases/download/v1.0.6.0/FCScanner.zip",
   "IconUrl": "https://raw.githubusercontent.com/WarriorOfWhat/FCScanner/main/images/scanningway.png"
 }
